@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/cc1942d2-e739-4289-818a-9c528fdbe66a)
 
+
+![hello wolrd gif](https://github.com/user-attachments/assets/13b6de4c-b764-40ae-a729-fd5ae8a4d4d6)
 
 
 I'm Matthew Bethwel Tumaini Gwada, a passionate developer on a coding journey! 💻✨
