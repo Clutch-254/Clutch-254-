@@ -6,7 +6,7 @@ I'm Matthew Bethwel Tumaini Gwada, a passionate developer on a coding journey! �
 
 • 📱 Flutter & Dart developer creating beautiful mobile experiences
 • 🔥 Firebase enthusiast for scalable backend solutions
-• 🐍 Python programmer for data analysis and automation
+• 🐍 Python programmer for problem solving
 • ☕ Java developer building robust applications
 
 I'm also
