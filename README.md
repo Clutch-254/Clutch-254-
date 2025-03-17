@@ -7,6 +7,8 @@ I'm Matthew Bethwel Tumaini , a passionate developer on a coding journey! 💻�
 
 • 📱 Flutter & Dart developer creating beautiful mobile experiences
 
+• 🌐 Front-end web developer with HTML, CSS, and JavaScript
+
 • 🔥 Firebase enthusiast for scalable backend solutions
 
 • 🐍 Python programmer for problem solving(Learning Django and PHP)
