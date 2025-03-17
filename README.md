@@ -20,6 +20,8 @@ I'm also:
 
 • 💪 A gym breh
 
+• ✍️ Aspiring author
+
 • 🥊 A combat sportsman and enthusiast
 
 🔍 Currently searching for internship opportunities to level up my skills and collaborate on impactful projects! Let's connect and build something amazing together! 🚀
