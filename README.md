@@ -9,7 +9,7 @@ I'm Matthew Bethwel Tumaini , a passionate developer on a coding journey! 💻�
 
 • 🔥 Firebase enthusiast for scalable backend solutions
 
-• 🐍 Python programmer for problem solving
+• 🐍 Python programmer for problem solving(Learning Django and PHP)
 
 • ☕ Java developer building robust applications
 
